@@ -91,7 +91,7 @@ public class AdminController extends HttpServlet {
 	    file.close();
 	    if(flag==0)
 	    {
-	    	f.append(email);
+	    	f.append(mail);
 	    	f.close();
 	    	RequestDispatcher rd = request.getRequestDispatcher("App");
 	    	rd.forward(request,response);
