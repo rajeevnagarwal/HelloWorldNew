@@ -1,0 +1,63 @@
+Email ID: bonitaspurrier@gmail.com
+Name: GoBonita Spurrier
+Enrollment Id: 1418
+Address of Correspondence: 12 Oaktree Ave; Derby; Derby DE24 8ES; India
+Mobile: 8425023390
+AdminPhD Stream: Computer Science
+AdminPhD Area Preference1: Information Security
+AdminPhD Area Preference2: Data Processing
+AdminPhD Area Preference3: Mobile ComputingGender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 28-03-1991
+Children of War: null
+Father's Name: Vincent Spurrier
+Nationality: Indian
+Permanent Address: 12 Oaktree Ave, Derby, Derby DE24 8ES, UK
+PinCode: 486808
+Xth Board: State Board
+Xth Marks Percentage: 86
+Year of Passing Xth: 2007
+XIIth Board: State Board
+XIIth Board: State Board
+XIIth Marks Percentage: 79
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Computer Science
+College: IIIT-Hyderabad
+University: IIIT-Hyderabad
+City: Hyderabad
+State: Andhra Pradesh
+Year of Graduating: 2013
+Graduation Percentage: Marks:86
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: 
+City of Postgraduation: 
+State of Postgraduatoin: 
+Department of Postgraduation: Computer Science
+Degree: 
+Thesis Title: 
+Year of Postgraduation: 
+Postgraduation Percentage: 
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2013
+Marks: 75
+Score: 787
+Rank: 5454
+Achievements: 

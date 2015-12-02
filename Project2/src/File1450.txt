@@ -1,0 +1,63 @@
+Email ID: lorenzonakano@gmail.com
+Name: GoLorenzo Nakano
+Enrollment Id: 1450
+Address of Correspondence: 1 St James Rd; Hereford; Herefordshire HR1 2QL; India
+Mobile: 9999024521
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Image Processing
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Female
+Category: General
+Physically Disabled: No
+Date of Birth: 31-12-1985
+Children of War: null
+Father's Name: Frankie Nakano
+Nationality: Indian
+Permanent Address: 1 St James Rd, Hereford, Herefordshire HR1 2QL, UK
+PinCode: 752853
+Xth Board: CBSE
+Xth Marks Percentage: 86
+Year of Passing Xth: 2001
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 86
+Year of Passing XIIth: 2003
+Degree: B.Tech
+Department: Computer Science
+College: Netaji Subhas Institute of Technology
+University: Delhi University
+City: New Delhi
+State: Delhi
+Year of Graduating: 2007
+Graduation Percentage: CGPA:8.4
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: Netaji Subhas Institute of Technology
+City of Postgraduation: New Delhi
+State of Postgraduatoin: New Delhi
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2009
+Postgraduation Percentage: Marks:81
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2007
+Marks: 79
+Score: 829
+Rank: 4242
+Achievements: 

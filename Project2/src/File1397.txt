@@ -1,0 +1,63 @@
+Email ID: dwanaklock@gmail.com
+Name: ShoDwana Klock
+Enrollment Id: 1397
+Address of Correspondence: 74-78 Great Whyte; Ramsey; Huntingdon; Cambridgeshire PE26 1HU; India
+Mobile: 9026662707
+AdminPhD Stream: Computer Science
+AdminPhD Area Preference1: Mobile Computing
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 09-05-1986
+Children of War: null
+Father's Name: Chris Klock
+Nationality: Indian
+Permanent Address: 74-78 Great Whyte, Ramsey, Huntingdon, Cambridgeshire PE26 1HU, UK
+PinCode: 656841
+Xth Board: CBSE
+Xth Marks Percentage: 82
+Year of Passing Xth: 2002
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 86
+Year of Passing XIIth: 2004
+Degree: B.Tech
+Department: Computer Science
+College: PSG College of Technology
+University: Anna University
+City: Coimbatore
+State: Tamil Nadu
+Year of Graduating: 2008
+Graduation Percentage: Marks:83
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: 
+City of Postgraduation: 
+State of Postgraduatoin: 
+Department of Postgraduation: Computer Science
+Degree: 
+Thesis Title: 
+Year of Postgraduation: 
+Postgraduation Percentage: 
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2008
+Marks: 76
+Score: 798
+Rank: 5454
+Achievements: 

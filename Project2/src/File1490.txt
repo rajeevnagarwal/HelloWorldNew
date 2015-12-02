@@ -1,0 +1,63 @@
+Email ID: angelikadingle@gmail.com
+Name: PeAngelika Dingle
+Enrollment Id: 1490
+Address of Correspondence: 9 Field Rd; Denham; Uxbridge; Buckinghamshire UB9 4HJ; India
+Mobile: 9999024521
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: Compilers
+AdminPhD Area Preference2: Distributed Systems
+AdminPhD Area Preference3: Embedded SystemGender: Male
+Category: SC
+Physically Disabled: No
+Date of Birth: 31-05-1989
+Children of War: null
+Father's Name: Jewel Dingle
+Nationality: Indian
+Permanent Address: 9 Field Rd, Denham, Uxbridge, Buckinghamshire UB9 4HJ, UK
+PinCode: 925838
+Xth Board: CBSE
+Xth Marks Percentage: 71
+Year of Passing Xth: 2005
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 82
+Year of Passing XIIth: 2007
+Degree: B.Tech
+Department: Electronics and Communication
+College: Bengal Engineering & Science University (BESU)
+University: Bengal Engineering & Science University (BESU)
+City: Shibput
+State: West Bengal
+Year of Graduating: 2011
+Graduation Percentage: CGPA:8.4
+--------APPLYING FOR ECE--------
+
+Preference1: Compilers
+Preference2: Distributed Systems
+Preference3: Embedded System
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: Bengal Engineering & Science University (BESU)
+City of Postgraduation: Shibput
+State of Postgraduatoin: Shibput
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2013
+Postgraduation Percentage: Marks:82
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2011
+Marks: 75
+Score: 787
+Rank: 5959
+Achievements: Prime Minister's Scholarship

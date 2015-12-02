@@ -1,0 +1,63 @@
+Email ID: oliviatew@gmail.com
+Name: AOlivia Tew
+Enrollment Id: 1649
+Address of Correspondence: 12A The Mews; Brixworth; Northampton; Northamptonshire NN6 9AS; India
+Mobile: 8652494041
+AdminPhD Stream: Computer Science
+AdminPhD Area Preference1: Mobile Computing
+AdminPhD Area Preference2: Data Processing
+AdminPhD Area Preference3: Mobile ComputingGender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 03-08-1988
+Children of War: null
+Father's Name: George Tew
+Nationality: Indian
+Permanent Address: 12A The Mews, Brixworth, Northampton, Northamptonshire NN6 9AS, UK
+PinCode: 153507
+Xth Board: State Board
+Xth Marks Percentage: 79
+Year of Passing Xth: 2004
+XIIth Board: State Board
+XIIth Board: State Board
+XIIth Marks Percentage: 86
+Year of Passing XIIth: 2006
+Degree: B.Tech
+Department: Computer Science
+College: PSG College of Technology
+University: Anna University
+City: Coimbatore
+State: Tamil Nadu
+Year of Graduating: 2010
+Graduation Percentage: Marks:84
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: PSG College of Technology
+City of Postgraduation: Coimbatore
+State of Postgraduatoin: Coimbatore
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2012
+Postgraduation Percentage: Marks:86
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2010
+Marks: 95
+Score: 997
+Rank: 101
+Achievements: 

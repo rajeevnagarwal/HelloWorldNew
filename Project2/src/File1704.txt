@@ -1,0 +1,63 @@
+Email ID: shalonschueler@gmail.com
+Name: AShalon Schueler
+Enrollment Id: 1704
+Address of Correspondence: 25 E Lodge Gardens; Kirkleatham; Redcar; Redcar and Cleveland TS11 8HL; India
+Mobile: 9938529679
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: Compilers
+AdminPhD Area Preference2: Distributed Systems
+AdminPhD Area Preference3: Embedded SystemGender: Female
+Category: SC
+Physically Disabled: No
+Date of Birth: 19-09-1990
+Children of War: null
+Father's Name: Delbert Schueler
+Nationality: Indian
+Permanent Address: 25 E Lodge Gardens, Kirkleatham, Redcar, Redcar and Cleveland TS11 8HL, UK
+PinCode: 690995
+Xth Board: State Board
+Xth Marks Percentage: 88
+Year of Passing Xth: 2006
+XIIth Board: State Board
+XIIth Board: State Board
+XIIth Marks Percentage: 86
+Year of Passing XIIth: 2008
+Degree: B.Tech
+Department: Electronics and Communication
+College: NIT-Surathkal
+University: NIT
+City: Surathkal
+State: Karnataka
+Year of Graduating: 2012
+Graduation Percentage: Marks:83
+--------APPLYING FOR ECE--------
+
+Preference1: Compilers
+Preference2: Distributed Systems
+Preference3: Embedded System
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: NIT-Surathkal
+City of Postgraduation: Surathkal
+State of Postgraduatoin: Surathkal
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2014
+Postgraduation Percentage: Marks:76
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2012
+Marks: 90
+Score: 945
+Rank: 1111
+Achievements: 

@@ -1,0 +1,63 @@
+Email ID: quintonuhrich@gmail.com
+Name: ShoQuinton Uhrich
+Enrollment Id: 1355
+Address of Correspondence: 2 Court Ln; Hadlow; Tonbridge; Kent TN11 0DP; India
+Mobile: 7415173953
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Molecular Mechanics
+AdminPhD Area Preference2: Mathematical Biology
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 17-01-1991
+Children of War: null
+Father's Name: Isaias Uhrich
+Nationality: Indian
+Permanent Address: 2 Court Ln, Hadlow, Tonbridge, Kent TN11 0DP, UK
+PinCode: 614033
+Xth Board: ICSE
+Xth Marks Percentage: 72
+Year of Passing Xth: 2007
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 70
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Computer Science
+College: IIIT-Hyderabad
+University: IIIT-Hyderabad
+City: Hyderabad
+State: Andhra Pradesh
+Year of Graduating: 2013
+Graduation Percentage: Marks:72
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIIT-Hyderabad
+City of Postgraduation: Hyderabad
+State of Postgraduatoin: Hyderabad
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:72
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2013
+Marks: 72
+Score: 756
+Rank: 6969
+Achievements: 

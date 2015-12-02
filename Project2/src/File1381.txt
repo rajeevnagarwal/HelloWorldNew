@@ -1,0 +1,63 @@
+Email ID: katerudnick@gmail.com
+Name: ShoKate Rudnick
+Enrollment Id: 1381
+Address of Correspondence: 42-44 Edwin Grove; Wallsend; Tyne and Wear NE28 0LH; India
+Mobile: 9911022043
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: VLSI
+AdminPhD Area Preference2: Embedded Systems
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 24-04-1989
+Children of War: null
+Father's Name: Heath Rudnick
+Nationality: Indian
+Permanent Address: 42-44 Edwin Grove, Wallsend, Tyne and Wear NE28 0LH, UK
+PinCode: 457104
+Xth Board: ICSE
+Xth Marks Percentage: 77
+Year of Passing Xth: 2005
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 92
+Year of Passing XIIth: 2007
+Degree: B.Tech
+Department: Electronics and Communication
+College: Bengal Engineering & Science University (BESU)
+University: Bengal Engineering & Science University (BESU)
+City: Shibput
+State: West Bengal
+Year of Graduating: 2011
+Graduation Percentage: Marks:85
+--------APPLYING FOR ECE--------
+
+Preference1: VLSI
+Preference2: Embedded Systems
+Preference3: Compilers
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: Bengal Engineering & Science University (BESU)
+City of Postgraduation: Shibput
+State of Postgraduatoin: Shibput
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2013
+Postgraduation Percentage: Marks:83
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Electronics and Communication
+Year of Graduation: 2011
+Marks: 93
+Score: 976
+Rank: 505
+Achievements: 

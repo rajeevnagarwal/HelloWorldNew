@@ -1,0 +1,63 @@
+Email ID: diedraabdo@gmail.com
+Name: ADiedra Abdo
+Enrollment Id: 1689
+Address of Correspondence: 3 Poplars Dr; Marldon; Paignton; Devon TQ3 1NS; India
+Mobile: 8652494041
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: VLSI
+AdminPhD Area Preference2: Embedded Systems
+AdminPhD Area Preference3: Embedded SystemGender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 15-12-1991
+Children of War: null
+Father's Name: Santo Abdo
+Nationality: Indian
+Permanent Address: 3 Poplars Dr, Marldon, Paignton, Devon TQ3 1NS, UK
+PinCode: 499077
+Xth Board: ICSE
+Xth Marks Percentage: 92
+Year of Passing Xth: 2007
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 77
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Electronics and Communication
+College: Harcourt Butler Technological Institute
+University: UPTU
+City: Kanpur
+State: Uttar Pradesh
+Year of Graduating: 2013
+Graduation Percentage: Marks:84
+--------APPLYING FOR ECE--------
+
+Preference1: VLSI
+Preference2: Embedded Systems
+Preference3: Embedded System
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: Harcourt Butler Technological Institute
+City of Postgraduation: Kanpur
+State of Postgraduatoin: Kanpur
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:70
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2013
+Marks: 94
+Score: 987
+Rank: 505
+Achievements: 

@@ -1,0 +1,63 @@
+Email ID: lesafomby@gmail.com
+Name: ShoLesa Fomby
+Enrollment Id: 1352
+Address of Correspondence: 22 Southwold Pl; Cramlington; Northumberland NE23 8HE; India
+Mobile: 8939033524
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Image Processing
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 17-02-1990
+Children of War: null
+Father's Name: Eddy Fomby
+Nationality: Indian
+Permanent Address: 22 Southwold Pl, Cramlington, Northumberland NE23 8HE, UK
+PinCode: 439246
+Xth Board: State Board
+Xth Marks Percentage: 80
+Year of Passing Xth: 2006
+XIIth Board: State Board
+XIIth Board: State Board
+XIIth Marks Percentage: 79
+Year of Passing XIIth: 2008
+Degree: B.Tech
+Department: Computer Science
+College: Harcourt Butler Technological Institute
+University: UPTU
+City: Kanpur
+State: Uttar Pradesh
+Year of Graduating: 2012
+Graduation Percentage: Marks:77
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: Harcourt Butler Technological Institute
+City of Postgraduation: Kanpur
+State of Postgraduatoin: Kanpur
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2014
+Postgraduation Percentage: CGPA:8.4
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2012
+Marks: 92
+Score: 966
+Rank: 1111
+Achievements: 

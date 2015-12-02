@@ -1,0 +1,63 @@
+Email ID: irascally@gmail.com
+Name: AIra Scally
+Enrollment Id: 1657
+Address of Correspondence: 2 Grinnavat Rd; Shawbost; Isle of Lewis; Na h-Eileanan an Iar HS2 9BL; India
+Mobile: 9026662707
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: BioSimulations
+AdminPhD Area Preference2: Mathematical Biology
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 19-10-1991
+Children of War: null
+Father's Name: Carrol Scally
+Nationality: Nepalese
+Permanent Address: 2 Grinnavat Rd, Shawbost, Isle of Lewis, Na h-Eileanan an Iar HS2 9BL, UK
+PinCode: 868573
+Xth Board: State Board
+Xth Marks Percentage: 87
+Year of Passing Xth: 2007
+XIIth Board: State Board
+XIIth Board: State Board
+XIIth Marks Percentage: 76
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Computer Science
+College: IIT-Delhi
+University: IIT
+City: New Delhi
+State: Delhi
+Year of Graduating: 2013
+Graduation Percentage: Marks:75
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIT-Delhi
+City of Postgraduation: New Delhi
+State of Postgraduatoin: New Delhi
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:76
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2013
+Marks: 76
+Score: 798
+Rank: 5353
+Achievements: 

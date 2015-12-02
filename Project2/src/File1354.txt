@@ -1,0 +1,63 @@
+Email ID: freddymikels@gmail.com
+Name: ShoFreddy Mikels
+Enrollment Id: 1354
+Address of Correspondence: 37-41 Eastwoodbury Cres; Southend-on-Sea; Southend-on-Sea SS2 6XG; India
+Mobile: 9650826230
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: Compilers
+AdminPhD Area Preference2: Embedded Systems
+AdminPhD Area Preference3: Gender: Female
+Category: General
+Physically Disabled: No
+Date of Birth: 28-03-1990
+Children of War: null
+Father's Name: Thanh Mikels
+Nationality: Indian
+Permanent Address: 37-41 Eastwoodbury Cres, Southend-on-Sea, Southend-on-Sea SS2 6XG, UK
+PinCode: 740517
+Xth Board: ICSE
+Xth Marks Percentage: 83
+Year of Passing Xth: 2006
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 94
+Year of Passing XIIth: 2008
+Degree: B.Tech
+Department: Electronics and Communication
+College: IIT-Delhi
+University: IIT
+City: New Delhi
+State: Delhi
+Year of Graduating: 2012
+Graduation Percentage: Marks:87
+--------APPLYING FOR ECE--------
+
+Preference1: Compilers
+Preference2: Embedded Systems
+Preference3: VLSI
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIT-Delhi
+City of Postgraduation: New Delhi
+State of Postgraduatoin: New Delhi
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2014
+Postgraduation Percentage: CGPA:7.2
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2012
+Marks: 71
+Score: 745
+Rank: 7373
+Achievements: 

@@ -1,0 +1,63 @@
+Email ID: wilbertstmarie@gmail.com
+Name: ElWilbert Stmarie
+Enrollment Id: 1779
+Address of Correspondence: 2 Storws Wen; Brynteg; Isle of Anglesey LL78 8JY; India
+Mobile: 9654003030
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Molecular Mechanics
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 14-09-1988
+Children of War: null
+Father's Name: Jerrold Stmarie
+Nationality: Indian
+Permanent Address: 2 Storws Wen, Brynteg, Isle of Anglesey LL78 8JY, UK
+PinCode: 803914
+Xth Board: ICSE
+Xth Marks Percentage: 70
+Year of Passing Xth: 2004
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 89
+Year of Passing XIIth: 2006
+Degree: B.Tech
+Department: Information Technology
+College: College of Engineering
+University: Savitribai Phule Pune University 
+City: Pune
+State: Maharashtra
+Year of Graduating: 2010
+Graduation Percentage: Marks:86
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: College of Engineering
+City of Postgraduation: Pune
+State of Postgraduatoin: Pune
+Department of Postgraduation: Information Technology
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2012
+Postgraduation Percentage: Marks:86
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2010
+Marks: 86
+Score: 903
+Rank: 2020
+Achievements: 

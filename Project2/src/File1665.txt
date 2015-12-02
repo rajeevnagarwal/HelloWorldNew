@@ -1,0 +1,63 @@
+Email ID: thomasinaalcantara@gmail.com
+Name: AThomasina Alcantara
+Enrollment Id: 1665
+Address of Correspondence: 4 Mains Rd; Ballantrae; Girvan; South Ayrshire KA26 0NJ; India
+Mobile: 9975933393
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: VLSI
+AdminPhD Area Preference2: Embedded Systems
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 22-01-1986
+Children of War: null
+Father's Name: Hayden Alcantara
+Nationality: Indian
+Permanent Address: 4 Mains Rd, Ballantrae, Girvan, South Ayrshire KA26 0NJ, UK
+PinCode: 439317
+Xth Board: CBSE
+Xth Marks Percentage: 86
+Year of Passing Xth: 2002
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 72
+Year of Passing XIIth: 2004
+Degree: B.Tech
+Department: Electronics and Communication
+College: College of Engineering
+University: Savitribai Phule Pune University 
+City: Pune
+State: Maharashtra
+Year of Graduating: 2008
+Graduation Percentage: Marks:97
+--------APPLYING FOR ECE--------
+
+Preference1: VLSI
+Preference2: Embedded Systems
+Preference3: Compilers
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: College of Engineering
+City of Postgraduation: Pune
+State of Postgraduatoin: Pune
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2010
+Postgraduation Percentage: Marks:72
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2008
+Marks: 77
+Score: 808
+Rank: 4343
+Achievements: 

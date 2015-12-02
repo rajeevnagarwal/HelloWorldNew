@@ -1,0 +1,63 @@
+Email ID: ernestinaflohr@gmail.com
+Name: AErnestina Flohr
+Enrollment Id: 1695
+Address of Correspondence: Great Wyrley; Staffordshire; India
+Mobile: 7415173953
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: VLSI
+AdminPhD Area Preference2: Distributed Systems
+AdminPhD Area Preference3: Embedded SystemGender: Female
+Category: SC
+Physically Disabled: No
+Date of Birth: 23-08-1987
+Children of War: null
+Father's Name: Clark Flohr
+Nationality: Saudi
+Permanent Address: Great Wyrley, Staffordshire, UK
+PinCode: 615336
+Xth Board: State Board
+Xth Marks Percentage: 94
+Year of Passing Xth: 2003
+XIIth Board: State Board
+XIIth Board: State Board
+XIIth Marks Percentage: 71
+Year of Passing XIIth: 2005
+Degree: B.Tech
+Department: Electronics and Communication
+College: VJTI
+University: VJTI
+City: Mumbai
+State: Maharashtra
+Year of Graduating: 2009
+Graduation Percentage: Marks:84
+--------APPLYING FOR ECE--------
+
+Preference1: VLSI
+Preference2: Distributed Systems
+Preference3: Embedded System
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: VJTI
+City of Postgraduation: Mumbai
+State of Postgraduatoin: Mumbai
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2011
+Postgraduation Percentage: Marks:86
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2009
+Marks: 88
+Score: 924
+Rank: 1515
+Achievements: 

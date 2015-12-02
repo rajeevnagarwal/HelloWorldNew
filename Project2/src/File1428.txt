@@ -1,0 +1,63 @@
+Email ID: kandisbaron@gmail.com
+Name: GoKandis Baron
+Enrollment Id: 1428
+Address of Correspondence: 33 Campion Cres; Cranbrook; Kent TN17 3QJ; India
+Mobile: 9312237451
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: Compilers
+AdminPhD Area Preference2: Distributed Systems
+AdminPhD Area Preference3: Embedded SystemGender: Male
+Category: SC
+Physically Disabled: No
+Date of Birth: 19-10-1986
+Children of War: null
+Father's Name: Patricia Baron
+Nationality: Indian
+Permanent Address: 33 Campion Cres, Cranbrook, Kent TN17 3QJ, UK
+PinCode: 557349
+Xth Board: CBSE
+Xth Marks Percentage: 84
+Year of Passing Xth: 2002
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 70
+Year of Passing XIIth: 2004
+Degree: B.Tech
+Department: Electronics and Communication
+College: BIT
+University: BIT
+City: Mesra
+State: Jharkhand
+Year of Graduating: 2008
+Graduation Percentage: Marks:79
+--------APPLYING FOR ECE--------
+
+Preference1: Compilers
+Preference2: Distributed Systems
+Preference3: Embedded System
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: BIT
+City of Postgraduation: Mesra
+State of Postgraduatoin: Mesra
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2010
+Postgraduation Percentage: Marks:70
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2008
+Marks: 79
+Score: 829
+Rank: 3737
+Achievements: 

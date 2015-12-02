@@ -1,0 +1,63 @@
+Email ID: ritabarksdale@gmail.com
+Name: Rita Barksdale
+Enrollment Id: 1044
+Address of Correspondence: Woodburn Dr; Whitley Bay; Tyne and Wear NE26; India
+Mobile: 9938529679
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Image Processing
+AdminPhD Area Preference2: Mathematical Biology
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 13-06-1991
+Children of War: null
+Father's Name: Craig Barksdale
+Nationality: Indian
+Permanent Address: Woodburn Dr, Whitley Bay, Tyne and Wear NE26, UK
+PinCode: 973337
+Xth Board: ICSE
+Xth Marks Percentage: 90
+Year of Passing Xth: 2007
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 82
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Information Technology
+College: Bengal Engineering & Science University (BESU)
+University: Bengal Engineering & Science University (BESU)
+City: Shibput
+State: West Bengal
+Year of Graduating: 2013
+Graduation Percentage: CGPA:7.2
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: Bengal Engineering & Science University (BESU)
+City of Postgraduation: Shibput
+State of Postgraduatoin: Shibput
+Department of Postgraduation: Information Technology
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:77
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2013
+Marks: 91
+Score: 955
+Rank: 1212
+Achievements: 

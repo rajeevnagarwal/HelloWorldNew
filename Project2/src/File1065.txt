@@ -1,0 +1,63 @@
+Email ID: connieikerd@gmail.com
+Name: Connie Ikerd
+Enrollment Id: 1065
+Address of Correspondence: Church Ln; Birmingham; Warwickshire B46 2QW; India
+Mobile: 9975933393
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: BioSimulations
+AdminPhD Area Preference2: Data Processing
+AdminPhD Area Preference3: Molecular BiologyGender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 04-07-1991
+Children of War: null
+Father's Name: Cody Ikerd
+Nationality: Indian
+Permanent Address: Church Ln, Birmingham, Warwickshire B46 2QW, UK
+PinCode: 630260
+Xth Board: CBSE
+Xth Marks Percentage: 70
+Year of Passing Xth: 2007
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 89
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Computer Science
+College: NIT-Warangal
+University: NIT
+City: Warangal
+State: Andhra Pradesh
+Year of Graduating: 2013
+Graduation Percentage: Marks:97
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: NIT-Warangal
+City of Postgraduation: Warangal
+State of Postgraduatoin: Warangal
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:79
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2013
+Marks: 81
+Score: 850
+Rank: 4343
+Achievements: 

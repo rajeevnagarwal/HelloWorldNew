@@ -1,0 +1,63 @@
+Email ID: vernelltenner@gmail.com
+Name: ElVernell Tenner
+Enrollment Id: 1740
+Address of Correspondence: 31A Camberwell Station Rd; Camberwell; London SE5 9JJ; India
+Mobile: 9951354542
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Image Processing
+AdminPhD Area Preference2: Data Processing
+AdminPhD Area Preference3: Molecular BiologyGender: Female
+Category: General
+Physically Disabled: No
+Date of Birth: 24-01-1991
+Children of War: null
+Father's Name: Sid Tenner
+Nationality: Indian
+Permanent Address: 31A Camberwell Station Rd, Camberwell, London SE5 9JJ, UK
+PinCode: 383488
+Xth Board: ICSE
+Xth Marks Percentage: 78
+Year of Passing Xth: 2007
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 74
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Information Technology
+College: IT - BHU
+University: IT - BHU
+City: Varanasi
+State: Uttar Pradesh
+Year of Graduating: 2013
+Graduation Percentage: Marks:82
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IT - BHU
+City of Postgraduation: Varanasi
+State of Postgraduatoin: Varanasi
+Department of Postgraduation: Information Technology
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:74
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2013
+Marks: 77
+Score: 808
+Rank: 4646
+Achievements: 

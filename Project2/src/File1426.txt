@@ -1,0 +1,63 @@
+Email ID: delaineformica@gmail.com
+Name: GoDelaine Formica
+Enrollment Id: 1426
+Address of Correspondence: 11 Portpool Ln; London EC1N; India
+Mobile: 7879417879
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Image Processing
+AdminPhD Area Preference2: Mathematical Biology
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 04-07-1986
+Children of War: null
+Father's Name: Jaime Formica
+Nationality: Indian
+Permanent Address: 11 Portpool Ln, London EC1N, UK
+PinCode: 649784
+Xth Board: ICSE
+Xth Marks Percentage: 79
+Year of Passing Xth: 2002
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 77
+Year of Passing XIIth: 2004
+Degree: B.Tech
+Department: Computer Science
+College: PSG College of Technology
+University: Anna University
+City: Coimbatore
+State: Tamil Nadu
+Year of Graduating: 2008
+Graduation Percentage: Marks:81
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: PSG College of Technology
+City of Postgraduation: Coimbatore
+State of Postgraduatoin: Coimbatore
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2010
+Postgraduation Percentage: Marks:77
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2008
+Marks: 73
+Score: 766
+Rank: 5353
+Achievements: 

@@ -1,0 +1,63 @@
+Email ID: santopotts@gmail.com
+Name: JoSanto Potts
+Enrollment Id: 1172
+Address of Correspondence: 24 Belmont St; Newtyle; Blairgowrie; Angus PH12 8UE; India
+Mobile: 8939033524
+AdminPhD Stream: Computer Science
+AdminPhD Area Preference1: Information Security
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Male
+Category: ST
+Physically Disabled: No
+Date of Birth: 03-06-1990
+Children of War: null
+Father's Name: Rosario Potts
+Nationality: Indian
+Permanent Address: 24 Belmont St, Newtyle, Blairgowrie, Angus PH12 8UE, UK
+PinCode: 273882
+Xth Board: ICSE
+Xth Marks Percentage: 74
+Year of Passing Xth: 2006
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 96
+Year of Passing XIIth: 2008
+Degree: B.Tech
+Department: Information Technology
+College: IIT-Mumbai
+University: IIT
+City: Mumbai
+State: Maharashtra
+Year of Graduating: 2012
+Graduation Percentage: Marks:70
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIT-Mumbai
+City of Postgraduation: Mumbai
+State of Postgraduatoin: Mumbai
+Department of Postgraduation: Information Technology
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2014
+Postgraduation Percentage: Marks:86
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2012
+Marks: 71
+Score: 745
+Rank: 7373
+Achievements: 

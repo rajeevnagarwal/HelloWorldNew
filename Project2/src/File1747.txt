@@ -1,0 +1,63 @@
+Email ID: eloissigala@gmail.com
+Name: ElElois Sigala
+Enrollment Id: 1747
+Address of Correspondence: 1 Williams Cl; Penyffordd; Chester; Flintshire CH4 0NG; India
+Mobile: 9540474455
+AdminPhD Stream: Computer Science
+AdminPhD Area Preference1: Mobile Computing
+AdminPhD Area Preference2: Data Processing
+AdminPhD Area Preference3: Mobile ComputingGender: Female
+Category: General
+Physically Disabled: No
+Date of Birth: 06-08-1986
+Children of War: null
+Father's Name: Bobby Sigala
+Nationality: Indian
+Permanent Address: 1 Williams Cl, Penyffordd, Chester, Flintshire CH4 0NG, UK
+PinCode: 905948
+Xth Board: CBSE
+Xth Marks Percentage: 70
+Year of Passing Xth: 2002
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 91
+Year of Passing XIIth: 2004
+Degree: B.Tech
+Department: Information Technology
+College: Bengal Engineering & Science University (BESU)
+University: Bengal Engineering & Science University (BESU)
+City: Shibput
+State: West Bengal
+Year of Graduating: 2008
+Graduation Percentage: Marks:76
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: 
+City of Postgraduation: 
+State of Postgraduatoin: 
+Department of Postgraduation: Information Technology
+Degree: 
+Thesis Title: 
+Year of Postgraduation: 
+Postgraduation Percentage: 
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2008
+Marks: 93
+Score: 976
+Rank: 505
+Achievements: 

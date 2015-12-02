@@ -1,0 +1,63 @@
+Email ID: divinasecrist@gmail.com
+Name: JamDivina Secrist
+Enrollment Id: 1158
+Address of Correspondence: 38 Central Rd; Morden; Greater London SM4 5RT; India
+Mobile: 8425023390
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: Compilers
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Female
+Category: OBC
+Physically Disabled: No
+Date of Birth: 08-07-1986
+Children of War: null
+Father's Name: Todd Secrist
+Nationality: Indian
+Permanent Address: 38 Central Rd, Morden, Greater London SM4 5RT, UK
+PinCode: 622540
+Xth Board: State Board
+Xth Marks Percentage: 78
+Year of Passing Xth: 2002
+XIIth Board: State Board
+XIIth Board: State Board
+XIIth Marks Percentage: 75
+Year of Passing XIIth: 2004
+Degree: B.Tech
+Department: Electronics and Communication
+College: Bengal Engineering & Science University (BESU)
+University: Bengal Engineering & Science University (BESU)
+City: Shibput
+State: West Bengal
+Year of Graduating: 2008
+Graduation Percentage: Marks:70
+--------APPLYING FOR ECE--------
+
+Preference1: Compilers
+Preference2: VLSI
+Preference3: Embedded System
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: Bengal Engineering & Science University (BESU)
+City of Postgraduation: Shibput
+State of Postgraduatoin: Shibput
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2010
+Postgraduation Percentage: Marks:75
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Electronics and Communication
+Year of Graduation: 2008
+Marks: 90
+Score: 945
+Rank: 1414
+Achievements: 

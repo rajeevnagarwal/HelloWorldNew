@@ -1,0 +1,63 @@
+Email ID: marquettapernell@gmail.com
+Name: MaMarquetta Pernell
+Enrollment Id: 1243
+Address of Correspondence: 78 Church Ln; Newington; Sittingbourne; Kent ME9 7JU; India
+Mobile: 9421463053
+AdminPhD Stream: Computer Science
+AdminPhD Area Preference1: Mobile Computing
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Male
+Category: ST
+Physically Disabled: No
+Date of Birth: 08-07-1986
+Children of War: null
+Father's Name: Rosendo Pernell
+Nationality: Indian
+Permanent Address: 78 Church Ln, Newington, Sittingbourne, Kent ME9 7JU, UK
+PinCode: 961386
+Xth Board: ICSE
+Xth Marks Percentage: 85
+Year of Passing Xth: 2002
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 92
+Year of Passing XIIth: 2004
+Degree: B.Tech
+Department: Information Technology
+College: IT - BHU
+University: IT - BHU
+City: Varanasi
+State: Uttar Pradesh
+Year of Graduating: 2008
+Graduation Percentage: CGPA:7.8
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: 
+City of Postgraduation: 
+State of Postgraduatoin: 
+Department of Postgraduation: Information Technology
+Degree: 
+Thesis Title: 
+Year of Postgraduation: 
+Postgraduation Percentage: 
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2008
+Marks: 76
+Score: 798
+Rank: 5656
+Achievements: 

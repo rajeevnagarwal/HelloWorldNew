@@ -1,0 +1,63 @@
+Email ID: loreangibson@gmail.com
+Name: JoLorean Gibson
+Enrollment Id: 1228
+Address of Correspondence: 247 Wallacewell Rd; Glasgow; Glasgow City G21 3PS; India
+Mobile: 9312237451
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Image Processing
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: Yes
+Date of Birth: 30-06-1991
+Children of War: null
+Father's Name: Waldo Gibson
+Nationality: Indian
+Permanent Address: 247 Wallacewell Rd, Glasgow, Glasgow City G21 3PS, UK
+PinCode: 563180
+Xth Board: ICSE
+Xth Marks Percentage: 87
+Year of Passing Xth: 2007
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 90
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Information Technology
+College: IIT-Delhi
+University: IIT
+City: New Delhi
+State: Delhi
+Year of Graduating: 2013
+Graduation Percentage: Marks:79
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIT-Delhi
+City of Postgraduation: New Delhi
+State of Postgraduatoin: New Delhi
+Department of Postgraduation: Information Technology
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:88
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2013
+Marks: 84
+Score: 882
+Rank: 2929
+Achievements: 

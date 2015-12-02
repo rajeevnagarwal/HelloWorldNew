@@ -1,0 +1,63 @@
+Email ID: muirozek@gmail.com
+Name: SiMui Rozek
+Enrollment Id: 1591
+Address of Correspondence: 3 Country Park View; Bignall End; Stoke-on-Trent; Staffordshire ST7 8NZ; India
+Mobile: 9599775300
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: VLSI
+AdminPhD Area Preference2: Embedded Systems
+AdminPhD Area Preference3: Embedded SystemGender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 26-07-1989
+Children of War: null
+Father's Name: Ian Rozek
+Nationality: Indian
+Permanent Address: 3 Country Park View, Bignall End, Stoke-on-Trent, Staffordshire ST7 8NZ, UK
+PinCode: 402604
+Xth Board: CBSE
+Xth Marks Percentage: 85
+Year of Passing Xth: 2005
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 79
+Year of Passing XIIth: 2007
+Degree: B.Tech
+Department: Electronics and Communication
+College: NIT-Warangal
+University: NIT
+City: Warangal
+State: Andhra Pradesh
+Year of Graduating: 2011
+Graduation Percentage: Marks:88
+--------APPLYING FOR ECE--------
+
+Preference1: VLSI
+Preference2: Embedded Systems
+Preference3: Embedded System
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: NIT-Warangal
+City of Postgraduation: Warangal
+State of Postgraduatoin: Warangal
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2013
+Postgraduation Percentage: Marks:75
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2011
+Marks: 87
+Score: 913
+Rank: 2323
+Achievements: 

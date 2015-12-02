@@ -1,0 +1,63 @@
+Email ID: broderickpadro@gmail.com
+Name: MaBroderick Padro
+Enrollment Id: 1311
+Address of Correspondence: 8 Kylerhea; Breakish; Isle of Skye; Highland IV42 8NH; India
+Mobile: 9599775300
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Molecular Mechanics
+AdminPhD Area Preference2: Mathematical Biology
+AdminPhD Area Preference3: Gender: Female
+Category: General
+Physically Disabled: No
+Date of Birth: 21-04-1991
+Children of War: null
+Father's Name: Johnathon Padro
+Nationality: Indian
+Permanent Address: 8 Kylerhea, Breakish, Isle of Skye, Highland IV42 8NH, UK
+PinCode: 501156
+Xth Board: CBSE
+Xth Marks Percentage: 82
+Year of Passing Xth: 2007
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 87
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Computer Science
+College: IT - BHU
+University: IT - BHU
+City: Varanasi
+State: Uttar Pradesh
+Year of Graduating: 2013
+Graduation Percentage: Marks:88
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IT - BHU
+City of Postgraduation: Varanasi
+State of Postgraduatoin: Varanasi
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:87
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2013
+Marks: 82
+Score: 861
+Rank: 3737
+Achievements: 

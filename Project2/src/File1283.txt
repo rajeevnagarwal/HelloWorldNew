@@ -1,0 +1,63 @@
+Email ID: janniecrimi@gmail.com
+Name: MaJannie Crimi
+Enrollment Id: 1283
+Address of Correspondence: 9C Craigie St; Aberdeen; Aberdeen City AB25 1EH; India
+Mobile: 9421463053
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: VLSI
+AdminPhD Area Preference2: Embedded Systems
+AdminPhD Area Preference3: Gender: Female
+Category: General
+Physically Disabled: No
+Date of Birth: 15-06-1991
+Children of War: null
+Father's Name: Maxwell Crimi
+Nationality: Indian
+Permanent Address: 9C Craigie St, Aberdeen, Aberdeen City AB25 1EH, UK
+PinCode: 710748
+Xth Board: ICSE
+Xth Marks Percentage: 91
+Year of Passing Xth: 2007
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 73
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Electronics and Communication
+College: PSG College of Technology
+University: Anna University
+City: Coimbatore
+State: Tamil Nadu
+Year of Graduating: 2013
+Graduation Percentage: CGPA:7.8
+--------APPLYING FOR ECE--------
+
+Preference1: VLSI
+Preference2: Embedded Systems
+Preference3: Compilers
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: PSG College of Technology
+City of Postgraduation: Coimbatore
+State of Postgraduatoin: Coimbatore
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:80
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2013
+Marks: 70
+Score: 735
+Rank: 7575
+Achievements: 

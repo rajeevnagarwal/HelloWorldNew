@@ -1,0 +1,63 @@
+Email ID: cynthiawhalley@gmail.com
+Name: JoCynthia Whalley
+Enrollment Id: 1162
+Address of Correspondence: 1 Sycamore Grove; Knowbury; Ludlow; Shropshire SY8 3JW; India
+Mobile: 9823807309
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: Image Processing
+AdminPhD Area Preference2: Data Processing
+AdminPhD Area Preference3: Molecular BiologyGender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 09-05-1986
+Children of War: null
+Father's Name: Son Whalley
+Nationality: Indian
+Permanent Address: 1 Sycamore Grove, Knowbury, Ludlow, Shropshire SY8 3JW, UK
+PinCode: 167801
+Xth Board: CBSE
+Xth Marks Percentage: 78
+Year of Passing Xth: 2002
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 70
+Year of Passing XIIth: 2004
+Degree: B.Tech
+Department: Computer Science
+College: Delhi Technological University
+University: Delhi Technological University
+City: New Delhi
+State: Delhi
+Year of Graduating: 2008
+Graduation Percentage: CGPA:8.4
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: Delhi Technological University
+City of Postgraduation: New Delhi
+State of Postgraduatoin: New Delhi
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2010
+Postgraduation Percentage: Marks:70
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2008
+Marks: 74
+Score: 777
+Rank: 6464
+Achievements: 

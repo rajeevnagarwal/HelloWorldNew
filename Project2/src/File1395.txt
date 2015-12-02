@@ -1,0 +1,63 @@
+Email ID: christruett@gmail.com
+Name: ShoChris Truett
+Enrollment Id: 1395
+Address of Correspondence: 13 Murray Pl; Cambusbarron; Stirling; Stirling FK7 9PF; India
+Mobile: 7415173953
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: Compilers
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Male
+Category: ST
+Physically Disabled: No
+Date of Birth: 30-11-1985
+Children of War: null
+Father's Name: Kraig Truett
+Nationality: Indian
+Permanent Address: 13 Murray Pl, Cambusbarron, Stirling, Stirling FK7 9PF, UK
+PinCode: 417039
+Xth Board: CBSE
+Xth Marks Percentage: 96
+Year of Passing Xth: 2001
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 87
+Year of Passing XIIth: 2003
+Degree: B.Tech
+Department: Electronics and Communication
+College: IIT-Kharagpur
+University: IIT
+City: Kharagpur
+State: West Bengal
+Year of Graduating: 2007
+Graduation Percentage: Marks:72
+--------APPLYING FOR ECE--------
+
+Preference1: Compilers
+Preference2: VLSI
+Preference3: Embedded System
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIT-Kharagpur
+City of Postgraduation: Kharagpur
+State of Postgraduatoin: Kharagpur
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2009
+Postgraduation Percentage: Marks:70
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2007
+Marks: 83
+Score: 871
+Rank: 3434
+Achievements: 

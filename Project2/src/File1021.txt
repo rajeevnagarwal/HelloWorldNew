@@ -1,0 +1,63 @@
+Email ID: ramonitapeebles@gmail.com
+Name: Ramonita Peebles
+Enrollment Id: 1021
+Address of Correspondence: Broadhead Rd; Bolton; Blackburn with Darwen BL7; India
+Mobile: 9911022043
+AdminPhD Stream: Computer Science
+AdminPhD Area Preference1: Mobile Computing
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Male
+Category: ST
+Physically Disabled: No
+Date of Birth: 01-08-1991
+Children of War: null
+Father's Name: Angel Peebles
+Nationality: Indian
+Permanent Address: Broadhead Rd, Bolton, Blackburn with Darwen BL7, UK
+PinCode: 195634
+Xth Board: ICSE
+Xth Marks Percentage: 92
+Year of Passing Xth: 2007
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 88
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Computer Science
+College: VJTI
+University: VJTI
+City: Mumbai
+State: Maharashtra
+Year of Graduating: 2013
+Graduation Percentage: Marks:85
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: VJTI
+City of Postgraduation: Mumbai
+State of Postgraduatoin: Mumbai
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: Marks:88
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2013
+Marks: 85
+Score: 892
+Rank: 2828
+Achievements: 

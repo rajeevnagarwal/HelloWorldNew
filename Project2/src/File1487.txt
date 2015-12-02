@@ -1,0 +1,63 @@
+Email ID: theresiahemond@gmail.com
+Name: PeTheresia Hemond
+Enrollment Id: 1487
+Address of Correspondence: 8 Bowman Ct; Pocklington; York; East Riding of Yorkshire YO42 2FG; India
+Mobile: 9540474455
+AdminPhD Stream: Electronics and Communication
+AdminPhD Area Preference1: VLSI
+AdminPhD Area Preference2: Embedded Systems
+AdminPhD Area Preference3: Gender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 27-04-1988
+Children of War: null
+Father's Name: Hassan Hemond
+Nationality: Indian
+Permanent Address: 8 Bowman Ct, Pocklington, York, East Riding of Yorkshire YO42 2FG, UK
+PinCode: 354367
+Xth Board: ICSE
+Xth Marks Percentage: 76
+Year of Passing Xth: 2004
+XIIth Board: ICSE
+XIIth Board: ICSE
+XIIth Marks Percentage: 75
+Year of Passing XIIth: 2006
+Degree: B.Tech
+Department: Electronics and Communication
+College: IIT-Kharagpur
+University: IIT
+City: Kharagpur
+State: West Bengal
+Year of Graduating: 2010
+Graduation Percentage: Marks:77
+--------APPLYING FOR ECE--------
+
+Preference1: VLSI
+Preference2: Embedded Systems
+Preference3: Wireless Network
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIT-Kharagpur
+City of Postgraduation: Kharagpur
+State of Postgraduatoin: Kharagpur
+Department of Postgraduation: Electronics and Communication
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2012
+Postgraduation Percentage: Marks:75
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2010
+Marks: 81
+Score: 850
+Rank: 4343
+Achievements: 

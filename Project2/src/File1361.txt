@@ -1,0 +1,63 @@
+Email ID: oziebraddock@gmail.com
+Name: ShoOzie Braddock
+Enrollment Id: 1361
+Address of Correspondence: A493; Arthog; Gwynedd LL39 1YY; India
+Mobile: 9911022043
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: BioSimulations
+AdminPhD Area Preference2: 
+AdminPhD Area Preference3: Gender: Female
+Category: General
+Physically Disabled: No
+Date of Birth: 10-03-1991
+Children of War: null
+Father's Name: Charles Braddock
+Nationality: Indian
+Permanent Address: A493, Arthog, Gwynedd LL39 1YY, UK
+PinCode: 430252
+Xth Board: State Board
+Xth Marks Percentage: 91
+Year of Passing Xth: 2007
+XIIth Board: State Board
+XIIth Board: State Board
+XIIth Marks Percentage: 71
+Year of Passing XIIth: 2009
+Degree: B.Tech
+Department: Computer Science
+College: IIT-Kharagpur
+University: IIT
+City: Kharagpur
+State: West Bengal
+Year of Graduating: 2013
+Graduation Percentage: Marks:75
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIT-Kharagpur
+City of Postgraduation: Kharagpur
+State of Postgraduatoin: Kharagpur
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2015
+Postgraduation Percentage: CGPA:7.2
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2013
+Marks: 93
+Score: 976
+Rank: 808
+Achievements: 

@@ -1,0 +1,63 @@
+Email ID: elainaregis@gmail.com
+Name: Elaina Regis
+Enrollment Id: 1000
+Address of Correspondence: 1-3 Junction St; Carlisle; Cumbria CA2; India
+Mobile: 9951354542
+AdminPhD Stream: Computer Science
+AdminPhD Area Preference1: Information Security
+AdminPhD Area Preference2: Data Processing
+AdminPhD Area Preference3: Mobile ComputingGender: Male
+Category: General
+Physically Disabled: No
+Date of Birth: 30-11-1985
+Children of War: null
+Father's Name: Brady Regis
+Nationality: Indian
+Permanent Address: 1-3 Junction St, Carlisle, Cumbria CA2, UK
+PinCode: 110119
+Xth Board: CBSE
+Xth Marks Percentage: 75
+Year of Passing Xth: 2001
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 96
+Year of Passing XIIth: 2003
+Degree: B.Tech
+Department: Computer Science
+College: IIT-Delhi
+University: IIT
+City: New Delhi
+State: Delhi
+Year of Graduating: 2007
+Graduation Percentage: CGPA:9.0
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIT-Delhi
+City of Postgraduation: New Delhi
+State of Postgraduatoin: New Delhi
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2009
+Postgraduation Percentage: CGPA:8.4
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: Computer Science And IT
+Year of Graduation: 2007
+Marks: 92
+Score: 966
+Rank: 1111
+Achievements: MTA Certification

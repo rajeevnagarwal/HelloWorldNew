@@ -1,0 +1,63 @@
+Email ID: celinavalentino@gmail.com
+Name: MaCelina Valentino
+Enrollment Id: 1269
+Address of Correspondence: 6 Bank St; Greenlaw; Duns; Scottish Borders TD10 6XX; India
+Mobile: 8652494041
+AdminPhD Stream: Computational Biology
+AdminPhD Area Preference1: BioSimulations
+AdminPhD Area Preference2: Data Processing
+AdminPhD Area Preference3: Molecular BiologyGender: Female
+Category: General
+Physically Disabled: No
+Date of Birth: 03-07-1988
+Children of War: null
+Father's Name: Kenny Valentino
+Nationality: Indian
+Permanent Address: 6 Bank St, Greenlaw, Duns, Scottish Borders TD10 6XX, UK
+PinCode: 803458
+Xth Board: CBSE
+Xth Marks Percentage: 90
+Year of Passing Xth: 2004
+XIIth Board: CBSE
+XIIth Board: CBSE
+XIIth Marks Percentage: 74
+Year of Passing XIIth: 2006
+Degree: B.Tech
+Department: Computer Science
+College: IIT-Mumbai
+University: IIT
+City: Mumbai
+State: Maharashtra
+Year of Graduating: 2010
+Graduation Percentage: Marks:89
+--------APPLYING FOR ECE--------
+
+Preference1: 
+Preference2: 
+Preference3: 
+Preference4: 
+---------POSTGRADUATION--------
+
+College of Postgraduation: IIT-Mumbai
+City of Postgraduation: Mumbai
+State of Postgraduatoin: Mumbai
+Department of Postgraduation: Computer Science
+Degree: M.Tech
+Thesis Title: Random Title
+Year of Postgraduation: 2012
+Postgraduation Percentage: Marks:74
+---------ACADEMICS--------
+
+Exam Name: 
+Subject: 
+Year: 
+Score: 
+Rank: 
+---------GATE--------
+
+Area: 
+Year of Graduation: 2010
+Marks: 79
+Score: 829
+Rank: 3737
+Achievements: 
