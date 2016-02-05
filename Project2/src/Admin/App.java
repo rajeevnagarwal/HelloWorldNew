@@ -96,6 +96,7 @@ public class App extends HttpServlet {
 		int n=Integer.parseInt(b.readLine());
 		b.close();
 		String enroll=""+(n-1);
+		request.setAttribute("id", enroll);
 		String addrcorres=request.getParameter("addrcorres");
 		String mobile=request.getParameter("mobile");
 		String phdstream=request.getParameter("radio");
@@ -508,7 +509,7 @@ public class App extends HttpServlet {
 						e.printStackTrace();
 					}
 		}
-		RequestDispatcher rdd=request.getRequestDispatcher("./thanks.html");
+		RequestDispatcher rdd=request.getRequestDispatcher("./thanks.jsp");
 		rdd.forward(request, response);
 	}
 	

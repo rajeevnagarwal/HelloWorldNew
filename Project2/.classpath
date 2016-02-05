@@ -13,6 +13,7 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/Rajeev nagar/Downloads/scribe-1.2.1.jar/scribe-1.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rajeev nagar/Downloads/commons-codec-1.1-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Rajeev nagar/Downloads/org-apache-commons-codec.jar/org-apache-commons-codec.jar"/>
